@@ -81,7 +81,7 @@ setup(
         'click',
         'colorama',
         'lazyutils',
-        'sidekick>=0.1.1',
+        'sidekick>=0.1.1,<=0.3.1',
     ],
     extras_require={
         'dev': [
